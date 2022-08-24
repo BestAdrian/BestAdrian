@@ -8,8 +8,8 @@
 [![Android](https://img.shields.io/badge/Android-00C000?style=flat-square&logo=android&logoColor=FFFFFF&labelColor=00C000)](https://www.android.com/android-12/)
 
 ### Devices
-[![Legion Y9000P](https://img.shields.io/badge/Legion%20Y7000-00BBFF?style=flat-square&logo=lenovo&logoColor=FFFFFF&labelColor=00BBFF)](https://activity.lenovo.com.cn/xiaofei/zjz/hdy.html)
-[![Honor 30 pro](https://img.shields.io/badge/Legion%20Y7000-00BBFF?style=flat-square&logo=huawei&logoColor=FFFFFF&labelColor=00BBFF)](https://hihonor.com)
+[![Legion Y9000P](https://img.shields.io/badge/Legion%20Y9000P-00BBFF?style=flat-square&logo=lenovo&logoColor=FFFFFF&labelColor=00BBFF)](https://activity.lenovo.com.cn/xiaofei/zjz/hdy.html)
+[![Honor 30 pro](https://img.shields.io/badge/Honor%2030%20Pro-00BBFF?style=flat-square&logo=huawei&logoColor=FFFFFF&labelColor=00BBFF)](https://hihonor.com)
 ### Contact Me
 - e-mail: bestadrian404@gmail.com
 - QQ: 3285154019
