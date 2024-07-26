@@ -4,8 +4,8 @@
 
 ### Environment
 [![Windows 11](https://img.shields.io/badge/Windows-00BBFF?style=flat-square&logo=Windows&logoColor=FFFFFF&labelColor=00BBFF)](https://www.microsoft.com/windows11)
-[![Fedora 37](https://img.shields.io/badge/Fedora%2037-52A2DB?style=flat-square&logo=Fedora&logoColor=FFFFFF&labelColor=52A2DB)](https://fedoraproject.org/)
-[![HarmonyOS 3](https://img.shields.io/badge/HarmonyOS%203-eeeeee?style=flat-square&logo=HarmonyOS&logoColor=000000&labelColor=eeeeee)](https://harmonyos.com)
+[![Fedora 39](https://img.shields.io/badge/Fedora%2037-52A2DB?style=flat-square&logo=Fedora&logoColor=FFFFFF&labelColor=52A2DB)](https://fedoraproject.org/)
+[![HarmonyOS 4](https://img.shields.io/badge/HarmonyOS%203-eeeeee?style=flat-square&logo=HarmonyOS&logoColor=000000&labelColor=eeeeee)](https://harmonyos.com)
 
 ### Devices
 [![Legion Y9000P](https://img.shields.io/badge/Legion%20Y9000P-00BBFF?style=flat-square&logo=lenovo&logoColor=FFFFFF&labelColor=00BBFF)](https://activity.lenovo.com.cn/xiaofei/zjz/hdy.html)
